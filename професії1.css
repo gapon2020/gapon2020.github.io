@@ -1,0 +1,43 @@
+body 
+    {background-image: url(https://images.wallpaperscraft.ru/image/zvezdy_fon_svetlyy_69659_1280x720.jpg);
+      background-size: 100%;
+    }
+	
+	h1 {
+      color: darkgreen;
+      text-align: center;
+      font-size: 40px;
+     }
+
+	p {
+		font: impact;
+		font-size: 25px;
+		text-align: left;
+	}
+	 ul {
+	 	text-align: left;
+	 	font-size: 25px;
+	 	font: impact;
+	 	list-style-type: circle;
+	 	}
+	 ul1{
+	 	text-align: left;
+	 	font-size: 25px;
+	 	font: impact;
+	 	list-style-type: square;
+	 }
+	 ol{
+	 	text-align: left;
+	 	font-size: 25px;
+	 	font: impact;
+
+	 }
+	tr:nth-child(even) { background-color: lightpink; }
+	tr:nth-child(odd) { background-color: lightblue; }
+	tr:hover {
+		background-color: red;
+	}
+	
+
+
+		
