@@ -9,3 +9,13 @@ img {
 	width: 100px;
 	height: 100px;
 }
+
+.position {display: inline-block;
+	border-radius: 20px;
+	width: 200px;
+	height: 200px;
+	border: solid 2px black;
+	padding: 20px;
+	margin: 40px;
+	background-color: #EBDDFD;
+    }
